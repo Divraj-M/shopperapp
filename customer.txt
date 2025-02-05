@@ -1,1 +1,2 @@
 this is customer text file
+hello this is divraj
