@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 this is customer text FILE
 THIS IS GOWRI
 THIS IS DIVA
@@ -10,3 +11,7 @@ THIS IS THE ORANGE
 THIS IS THE ORANGE APPLE
 THIS IS THE PHONE THIS IS THE 
 THIS IS AP
+=======
+this is customer text file
+hello this is divraj
+>>>>>>> 4f30e0e (dev1 commit)
